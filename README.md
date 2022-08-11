@@ -6,7 +6,7 @@
 - 💞️ I'm really interested in problem solving and decision making with data ; my focus is to develop, optimize and reformulate repeatable models to solve challenging and high-value business problems, and provide actionable insights.
 - 🚧 I love working in a cross-functional environment, to collaborate with different teams on all data-related topics (data management, data engineering, data science, etc.).
 - 👀 I’m looking to collaborate on as many projects as possible! I'm also looking for a permanent role within data team where I could develop my functional skills further.
-- 📫 You can reach me through [email](ekeneosubor@gmail.com), [LinkedIn](linkedin.com/in/ekene-osubor) or on [Twitter](twitter.com/FidelKashFlo)
+- 📫 You can reach me through [Email](ekeneosubor@gmail.com), [LinkedIn](linkedin.com/in/ekene-osubor) or on [Twitter](twitter.com/FidelKashFlo)
 
 
 💻 Technical skills
