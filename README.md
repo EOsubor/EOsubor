@@ -1,4 +1,4 @@
-#👋 ABOUT ME
+👋 ABOUT ME
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Ekene!
 - 🌱 I am curently completing  an OpenClassrooms training program as Artificial Intelligence Engineer (July 2020 - Date), developed in partnership with Microsoft and Centrale Supelec. Details can be found [here](https://openclassrooms.com/en/paths/167-ai-engineer).
@@ -9,7 +9,7 @@
 - 📫 You can reach me through email - ekeneosubor@gmail.com, LinkedIn - linkedin.com/in/ekene-osubor or on Twitter - FidelKashFlo
 
 
-#💻 Technical skills
+💻 Technical skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👩‍💻 Programming language(s): Python, R, HTML CSS
 - 🛠️ Development tools : Jupyter Notebook (Anaconda), Google Colaboratory, Visual Studio Code, Github, PyCharm, Sublime, Atom, Kaggle
@@ -21,16 +21,16 @@
 - 🗃️ Database : PostgreSQL, MySQL, MongoDB
 
 
-#📋 Projets' portfolio
+📋 Projets' portfolio
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##📚 Data Science
+📚 Data Science
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - World University Rankings: [Multivariate Data Analysis using PCA](https://github.com/EOsubor/PCA---World-Uni-Rankings)
 - World University Rankings: [Multivariate Data Analysis using K-Means](https://github.com/EOsubor/K-Means-Clustering---World-Uni-Rankings)
 - World University Rankings: [Multivariate Data Analysis using Hierarchical Clustering](https://github.com/EOsubor/Hierarchical-Clustering---World-Uni-Rankings)
 - Open Food Facts: [Multivariate Data Analysis]()
 
-##🧪 Machine Learning: Supervised / Non Supervised
+🧪 Machine Learning: Supervised / Non Supervised
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Credit Scoring Model: [Classification Models With Imbalanced Data]()
 - Customer Segmentation: [K-Means Clustering]()
