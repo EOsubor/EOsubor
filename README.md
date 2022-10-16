@@ -1,6 +1,10 @@
 👋 ABOUT ME
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m Ekene!
+- 🛠️ Python Developer with a strong interest in Machine/Deep learning, data visualization, and creative problem-solving. Expert in Django & Flask framworks for robust and scalable web apps. I excel in both Front and Back-End design. Extremely passionate about programming and community development. 
+
+- 💭 Certified mechanical engineer with 4+ years of experience using 3D modeling, data processing, data mining and machine learning algorithms to help solve challenging business problems. 
+
 - 🌱 I am curently completing  an OpenClassrooms training program as Artificial Intelligence Engineer (July 2020 - Date), developed in partnership with Microsoft and Centrale Supelec. Details can be found [here](https://openclassrooms.com/en/paths/167-ai-engineer).
 - 👀 I’m interested in Data Science, Machine & Deep Learning
 - 💞️ I'm really interested in problem solving and decision making with data ; my focus is to develop, optimize and reformulate repeatable models to solve challenging and high-value business problems, and provide actionable insights.
